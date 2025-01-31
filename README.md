@@ -1,1 +1,0 @@
-A barebones html website that shows my name and my favorite hobby. 
