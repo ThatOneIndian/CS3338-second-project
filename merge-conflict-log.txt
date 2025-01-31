@@ -1,0 +1,118 @@
+commit 07832a53030d678bfb055fb45dda9749a3e1a534
+Merge: 879dfbd 6229ac0
+Author: Darshan Patel <omgitsdarshan@gmail.com>
+Date:   Fri Jan 31 12:00:33 2025 -0800
+
+    Merge remote-tracking branch 'origin/LuisBranch'
+
+commit 879dfbdba50c0fee11f67e9c9613a6af06e71253
+Author: Kirtoisplayz <54968402+ThatOneIndian@users.noreply.github.com>
+Date:   Fri Jan 31 11:55:51 2025 -0800
+
+    Update index.html
+
+commit 6229ac0fe30f6cfe1292616246c7313bd0f34da1
+Author: LMorales41 <162576303+LMorales41@users.noreply.github.com>
+Date:   Fri Jan 31 11:48:01 2025 -0800
+
+    Update index.html(2)
+
+commit 78b6280ea06d5700398c7b5d607656825601a767
+Author: LMorales41 <162576303+LMorales41@users.noreply.github.com>
+Date:   Fri Jan 31 11:47:13 2025 -0800
+
+    Update index.html
+
+commit 02f682244c215dd03a3b3730b974f978d84cb466
+Author: Darshan Patel <omgitsdarshan@gmail.com>
+Date:   Fri Jan 31 11:39:10 2025 -0800
+
+    log of git commands
+
+commit 44677e294e3e90f6abc3a9aef82797fb7fb6055e
+Merge: 428a188 e827a19
+Author: Kirtoisplayz <54968402+ThatOneIndian@users.noreply.github.com>
+Date:   Fri Jan 31 11:36:18 2025 -0800
+
+    Merge pull request #3 from ThatOneIndian/index-fix
+    
+    Index fix
+
+commit e827a198e7094e91b692bf9f77f26079e2b8bd1c
+Author: Darshan Patel <omgitsdarshan@gmail.com>
+Date:   Fri Jan 31 11:32:55 2025 -0800
+
+    add the location of the github repo/fork
+
+commit 21433d892c970055976d737ab54f40e4fd165f8d
+Author: Darshan Patel <omgitsdarshan@gmail.com>
+Date:   Fri Jan 31 11:31:50 2025 -0800
+
+    add the log the git commands
+
+commit 428a188c6fd914975d2ba659a442c88e0ad5647c
+Merge: 5ff3e08 ef658ef
+Author: Kirtoisplayz <54968402+ThatOneIndian@users.noreply.github.com>
+Date:   Fri Jan 31 11:29:25 2025 -0800
+
+    Merge pull request #2 from ThatOneIndian/index-fix
+    
+    Index fix
+
+commit ef658efd512e5e097acab0e98578e7098f384b09
+Merge: 566981e 5ff3e08
+Author: Darshan Patel <omgitsdarshan@gmail.com>
+Date:   Fri Jan 31 11:27:45 2025 -0800
+
+    Merge branch 'main' into index-fix
+
+commit 566981e9f30aff6aad1ad7d41f54d41c1e0d9f3c
+Author: Darshan Patel <omgitsdarshan@gmail.com>
+Date:   Fri Jan 31 11:13:41 2025 -0800
+
+    Adding a DIV that states my favorite game and movie
+
+commit 5ff3e08b02b191b56bff4729ca502622238dff0f
+Author: Darshan Patel <omgitsdarshan@gmail.com>
+Date:   Fri Jan 31 11:11:52 2025 -0800
+
+    Adding a div that says what my favorite food is
+
+commit f16a15140cba66fba6a9dffa7cce6a1c829b9667
+Author: Darshan Patel <omgitsdarshan@gmail.com>
+Date:   Fri Jan 31 11:08:02 2025 -0800
+
+    Add a simple readme for the second assignment repo
+
+commit 891261cc42487d80b4a57cd4a7c99f6a3a67ec0f
+Merge: 1d2bfc0 65c08c4
+Author: Kirtoisplayz <54968402+ThatOneIndian@users.noreply.github.com>
+Date:   Fri Jan 31 11:00:44 2025 -0800
+
+    Merge pull request #1 from ThatOneIndian/info-fill
+    
+    Info fill
+
+commit 65c08c4e97d0c6eba2c33acad97bf991dd126cac
+Author: Kirtoisplayz <54968402+ThatOneIndian@users.noreply.github.com>
+Date:   Fri Jan 31 10:59:17 2025 -0800
+
+    Delete README.md
+
+commit 61697cc6aca30438ed93769f94909bf33d25e20f
+Author: Darshan Patel <omgitsdarshan@gmail.com>
+Date:   Fri Jan 31 10:56:27 2025 -0800
+
+    Add a README.md that overviews website details
+
+commit c2463b2adbccf8492d35ce5dceda24b1cf6f9824
+Author: Darshan Patel <omgitsdarshan@gmail.com>
+Date:   Fri Jan 31 10:54:44 2025 -0800
+
+    Updating index.html by filling the blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
